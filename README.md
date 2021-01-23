@@ -1,7 +1,7 @@
 # Photo Management
 
 ## What is this for ?
-Classify photo files by date based on file name or exif (_DateTimeOriginal_)
+Classify photo files by date based on filename or exif (_DateTimeOriginal_)
 
 ## Install
 ```shell script
@@ -34,3 +34,8 @@ Options:
 
 $ >python photo.py classify --by exif
 ```
+
+## Description (Korean)
+> [https://gomeisa-it.tistory.com/9](https://gomeisa-it.tistory.com/9)
+
+![directory tree](tree.png)
