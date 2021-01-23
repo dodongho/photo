@@ -3,6 +3,8 @@
 ## What is this for ?
 Classify photo files by date based on filename or exif (_DateTimeOriginal_)
 
+and more (future plan...)
+
 ## Install
 ```shell script
 $ pip install -r requirements.txt
