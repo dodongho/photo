@@ -1,13 +1,14 @@
 # Photo Management
 
-## Classify photo files by date based on file name or exif (_DateTimeOriginal_)
+## What is this for ?
+Classify photo files by date based on file name or exif (_DateTimeOriginal_)
 
-### Install
+## Install
 ```shell script
 $ pip install -r requirements.txt
 ```
 
-#### Usage
+## Usage
 ```shell script
 $ python photo.py --help
 Usage: photo.py [OPTIONS] COMMAND [ARGS]...
@@ -19,7 +20,6 @@ Options:
 
 Commands:
   classify
-  compare
 
 
 $ python photo.py classify --help
